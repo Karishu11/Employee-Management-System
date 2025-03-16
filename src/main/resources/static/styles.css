@@ -1,0 +1,19 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.btn {
+    border-radius: 5px;
+}
+
+.table {
+    background-color: #ffffff;
+}
+
+th, td {
+    text-align: center;
+}
